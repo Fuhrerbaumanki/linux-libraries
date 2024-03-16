@@ -18,4 +18,4 @@ Linux Libraries
 
 Автор: Струк Никита Андреевич (aka Fuhrer_baumanki)
 
-Лицензия: Proprietary License
+Лицензия: GNU GPL 3
